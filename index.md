@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Bioinformatics Internship 
 
-You can use the [editor on GitHub](https://github.com/Kinyugo/hello-world2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello 👋 and welcome to my Bioinformatics Internship repo 🚀🌑
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Kinyugo Maina and I'll be sharing my ICIPE Bioinformatics Internship progress here. Am ecstatic to start my career as research scientist in Artificial Intelligence (AI), and I welcome you to be part of this journey.
 
-### Markdown
+## Mission
+To become a renown research scientist in AI, and contribute to the scientific community. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Vision
+I want to do research in AI field. I am driven by my curiosity and passion for AI. My main motivator is in knowing that my work will further advancements in other fields as well, that will empower humans everywhere in the world. 
 
-```markdown
-Syntax highlighted code block
+## Roadmap
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kinyugo/hello-world2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Here is a link to my [roadmap](https://github.com/Kinyugo/bioinformatics-internship/blob/main/roadmap.md).
